@@ -18,8 +18,8 @@ This repo contains two separate machine learning projects:
 
 ## Live Demo
 
-**[Customer Exit Prediction (Classification App)](https://your-classification-app-link.com)**  
-**[Estimated Salary Prediction (Regression App)](https://your-regression-app-link.com)**  
+**[Customer Exit Prediction (Classification App)](https://annchurnprediction-classification.streamlit.app)**  
+**[Estimated Salary Prediction (Regression App)](https://annchurnprediction-regression.streamlit.app)**  
 
 ---
 
@@ -40,13 +40,13 @@ pip install -r requirements.txt
 
 ### Step 3: Run the Apps
 
-#### ▶️ Run Exited Classification App
+#### Run Exited Classification App
 
 ```bash
 streamlit run exited_classification.py
 ```
 
-#### ▶️ Run Salary Regression App
+#### Run Salary Regression App
 
 ```bash
 streamlit run salary_regression.py
@@ -64,10 +64,10 @@ streamlit run salary_regression.py
 
 ---
 
-## 📬 Contact
+## Contact
 
 Made by **Piyush Naula**  
-🔗 [GitHub](https://github.com/piyushnaula)
+[GitHub](https://github.com/piyushnaula)
 
 ---
 
