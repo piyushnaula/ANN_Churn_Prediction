@@ -64,12 +64,5 @@ streamlit run salary_regression.py
 
 ---
 
-## Contact
-
-Made by **Piyush Naula**  
-[GitHub](https://github.com/piyushnaula)
-
----
-
 *Feel free to star ⭐ the repo if you found it helpful!*
 *Thank You*
