@@ -61,8 +61,3 @@ streamlit run salary_regression.py
 - Scikit-learn
 - Streamlit
 - NumPy / Pandas
-
----
-
-*Feel free to star ⭐ the repo if you found it helpful!*
-*Thank You*
